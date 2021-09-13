@@ -8,8 +8,7 @@ This repository contains the code of the following paper "**Dopamine Transporter
 
 
 # Trajectory of 630 SPECT images embed in three-dimentional space
-
-![](./SPECT embedding.png)
+![](./image embedding.JPG)
 
 
 
