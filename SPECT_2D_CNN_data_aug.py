@@ -69,32 +69,6 @@ Y_train.shape
 
 
 
-
-
-
-
-
-# In[]
-
-from skimage import data_dir,io,color
-import torch
-from sklearn import preprocessing
-import numpy as np
-import matplotlib.pyplot as plt
-from mpl_toolkits.mplot3d import Axes3D
-from sklearn import datasets
-from sklearn.decomposition import PCA
-import torch
-from torch.autograd import Variable
-
-
-
-import numpy as np
-import matplotlib.pyplot as plt
-import matplotlib.colors as colors
-import matplotlib.cm as cm 
-import matplotlib as mpl
-
 coll = io.ImageCollection(r'C:\Users\Ding1119\PyTorch-Spectral-clustering-master\12_11_PPMI_test\New_100\new_mid\*.jpg')
 #coll = io.ImageCollection(r'C:\Users\adm\SPECT_3_3\mask_three\*.jpg')
 #coll = io.ImageCollection(r'C:\Users\adm\SPECT_3_3\all_SPECT_RGB\*.jpg')
