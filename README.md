@@ -3,12 +3,12 @@
 This repository contains the code of the following paper "**Dopamine Transporter SPECT Image Classification for Neurodegenerative Parkinsonism via Diffusion Maps and Machine Learning Classifiers (published in MIUA2021)**", https://arxiv.org/abs/2104.02066. Publish on https://link.springer.com/chapter/10.1007/978-3-030-80432-9_29
 
 
-![](./framwork.JPG)
+![](./framwork.JPG)![](./image embedding.JPG)
 
 
 
 # Trajectory of 630 SPECT images embed in three-dimentional space
-![](./image embedding.JPG)
+
 
 
 
