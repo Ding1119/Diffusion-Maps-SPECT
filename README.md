@@ -28,3 +28,5 @@ Please cite the related works in your publications if it helps your research:
 
 ```
 
+## Acknowledgement
+https://github.com/dimkastan/PyTorch-Spectral-clustering
